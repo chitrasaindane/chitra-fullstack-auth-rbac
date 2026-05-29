@@ -1,0 +1,22 @@
+# Server
+server/target/
+server/.mvn/
+server/*.iml
+
+# Client
+client/node_modules/
+client/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+.env
+.env.local
